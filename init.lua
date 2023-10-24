@@ -1,2 +1,1 @@
-require("tugrul.remap")
-require("tugrul.set")
+require("tugrul")
